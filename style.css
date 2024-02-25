@@ -1,0 +1,14 @@
+#container {
+display: inline-flex;
+margin: 10px;
+padding: 10px;
+}
+
+h1{ 
+    margin: 20px;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    align-content: center;
+}
+
